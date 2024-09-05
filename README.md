@@ -9,7 +9,6 @@ I'm a Computer Science student at the University of Minnesota, and I am passiona
 
 ## Projects
 Here are a few projects i've completed or am in progress on:
-- [IN PROGRESS - Guitar Tuner for Apple Watch](#) - An intuitive app for tuning guitars using the Apple Watch, learning how to develop apps for apple systems.
 - [Youtube Video Downloader](https://github.com/Ethan-Stell/YT-Downloader) - Very Simple Youtube to MP4 program.
 
 
