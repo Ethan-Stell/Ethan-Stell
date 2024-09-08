@@ -9,6 +9,7 @@ I'm a Computer Science student at the University of Minnesota, and I am passiona
 
 ## Projects
 Here are a few projects i've completed or am in progress on:
+- [Diary Web App](https://poetic-druid-56581b.netlify.app/) - A Custom diary webapp, that uses google firebase for user authentication and cloud storage of entries.
 - [Youtube Video Downloader](https://github.com/Ethan-Stell/YT-Downloader) - Very Simple Youtube to MP4 program.
 
 
